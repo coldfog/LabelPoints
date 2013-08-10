@@ -20,6 +20,6 @@ Reading data
 
 `load 'result.mat'`
 
-result(i).I is the image you labeled.
+`result(i).I` is the image you labeled.
 
-result(i).Points is the Points you labeled.
+`result(i).Points` is the Points you labeled.
